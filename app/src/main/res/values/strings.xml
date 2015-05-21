@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Jericó Turístico</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="restaurantes">Restaurantes</string>
+    <string name="bares">Bares</string>
+    <string name="turisticos">Sitios Turísticos</string>
+    <string name="demografia">Información demográfica y Geográfica</string>
+    <string name="about">Acerca De</string>
+    <string name="bienvenida">BIENVENIDO A JERICÓ </string>
+    <string name="atenas">Atenas del suroeste</string>
+    <string name="cafetalt">Ubicado en el Parque principal.Ofrece un agradable ambiente y musica rock en general</string>
+    <string name="terrazat">Ubicada en el parque principal.Ofrece variedadde de bares y cafeterias</string>
+    <string name="clubt">Ubicado en la terraza.Es uno de los bares mas tradicionales del pueblo. Ofrece un ambiente agradable para compartir con amigos</string>
+    <string name="acerca">Aplicación desarrollada por estudiantes del curso Programación de Dispositivos Móviles de la Universidad de Antioquia. Mayo de 2015 </string>
+    <string name="atenast">Ubicado al frente de la casa de la Santa Laura, es una opcion perfecta para quienes gustan de la buena atención</string>
+    <string name="riot">Ubicado en el parque principal, ofrece comodas habitaciones y excelente atenicón</string>
+    <string name="tapiast">Ubicada a 15 min del área urbana, este hotel ofrece un cómodo ambiente natural</string>
+    <string name="morrot">Ubicado a cinco minutos de la cabecera municipal.Ofrece una hermosa vista del pueblo</string>
+    <string name="cablet">permite transportarse desde el Morro el Salvador hasta el parque ecológico Las Nubes</string>
+    <string name="nubest">Disfruta de hermosos senderos naturales y una vista única del paisaje natural de la región</string>
+    <string name="riost">Ubucado 15 minutos del pueblo, el rio piedras ofrece hermosos lugares para refrescarse y disfrutar de la naturaleza</string>
+    <string name="spat">Ubicado en cauca viejo. Ofrece una hermosa arquitectura colonial y vista hacia el valle del rio piedras</string>
+    <string name="casat">Casa Natal de la Santa Laura Montoya Upegui</string>
+    <string name="parrillat">Disfruta de las mejores parrilladas en medio de un ambiente acogedor y una excelente atención</string>
+    <string name="balcont">ubicado en el parque principal.Disfruta de la deliciosa comida,la buena atención y la hermosa vista</string>
+    <string name="gourmett">Disfruta de los mejores platos de la región en un ambiente familiar</string>
+    <string name="fundacion">Fundación: 1851</string>
+    <string name="habitantes">Número de habitantes: 15000</string>
+    <string name="rural">Habitantes Zona Rural: 6000</string>
+    <string name="urbana">Habitantes Zona Urbana: 9000</string>
+    <string name="altitud">Altitud: 1893 msnm</string>
+    <string name="clima">Clima: Clima ecuatorial</string>
+    <string name="superficie">Superficie: 195 km^2</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Jericó Turístico</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="hoteles">Hotels</string>
+    <string name="restaurantes">Restaurants</string>
+    <string name="bares">Bares</string>
+    <string name="turisticos">Tourist Places</string>
+    <string name="demografia">Demographic and Geographic information</string>
+    <string name="about">About</string>
+    <string name="bienvenida">WELLCOME TO JERICÓ </string>
+    <string name="atenas">Southwest Athen</string>
+    <string name="cafetalt">Located in the central park.Offers a nice spot for relajation whit rock music</string>
+    <string name="terrazat">Located in the central park.Offers variety of bares and cafes</string>
+    <string name="clubt">Located in "La Terraza".This is one of most traditional bares in town. offers a nice spot for sharing whit friend </string>
+    <string name="acerca">Application developed for Mobile device programming course students. Universidad de Antioquia.Mayo de 2015 </string>
+    <string name="atenast">Located in front of Santa Laura s house, This is a good option for those who like the good attention</string>
+    <string name="riot">Located in the central park. Offers comfortable rooms and excellent attention</string>
+    <string name="tapiast">located at 15 min from urban area. This hotel offers a comfortable and natural spot </string>
+    <string name="morrot">Located at 5 min from urban area.This place offers a beautiful view of whole town</string>
+    <string name="cablet">Allow the transportation from "El morro salvador" to "las Nubes" ecological park</string>
+    <string name="nubest">Enjoy the natural trails and the unique view of the region nature</string>
+    <string name="riost">located at 15 min from town The piedras river offers beautiful places for cooling off in its waters and enjoy the nature</string>
+    <string name="spat">Located in Cauca viejo.Offers a beautiful colonial architecture and a whole view of piedras river valley</string>
+    <string name="casat">St.Laura Montoya Upegui s birthplace</string>
+    <string name="parrillat">Enjoy the best barbecue Whit the best attention</string>
+    <string name="balcont">Located in the central park.Enjoy the delicious food,the excellent attention and the beautiful view</string>
+    <string name="gourmett">Enjoy the best regional dishes whit a family atmosphere</string>
+    <string name="fundacion">Foundation: 1851</string>
+    <string name="habitantes">Population: 15000</string>
+    <string name="rural">Rural Area Population: 6000</string>
+    <string name="urbana">urban Area Population: 9000</string>
+    <string name="altitud">Altitude: 1893 msnm</string>
+    <string name="clima">Weather: Tropical Weather</string>
+    <string name="superficie">Area: 195 km^2</string>
+
+
+
+</resources>

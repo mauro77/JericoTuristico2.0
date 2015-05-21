@@ -1,0 +1,17 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    style="@style/estilo3"
+
+    >
+    <fragment
+        android:id="@+id/principal"
+        android:name="com.mauriciohincapie.jericoturistico20.Principal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        />
+
+
+</LinearLayout>

@@ -1,0 +1,109 @@
+
+
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+
+        >
+
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="150dp"
+            android:layout_weight="1"
+
+            >
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:src="@drawable/cafetal_bar"
+                android:id="@+id/cafetal1"
+                style="@style/estilo3"
+
+
+                />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:id="@+id/cafetalt"
+                android:text="@string/cafetalt"
+                android:gravity="left"
+                android:textSize="15dp"
+                style="@style/estilo1"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="150dp"
+            android:layout_weight="1"
+
+            >
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:textSize="15dp"
+                android:text="@string/terrazat"
+                android:id="@+id/terrazat"
+                style="@style/estilo1"
+                />
+
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:src="@drawable/terraza"
+                android:id="@+id/terrazai"
+                style="@style/estilo3"
+
+
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="150dp"
+            android:layout_weight="1"
+
+            >
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:src="@drawable/bar_club"
+                android:id="@+id/clubi"
+                style="@style/estilo3"
+                />
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="@string/clubt"
+                android:textSize="15dp"
+                style="@style/estilo1"
+
+
+                android:id="@+id/clubt"
+                />
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
