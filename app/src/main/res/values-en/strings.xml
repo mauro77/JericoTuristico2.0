@@ -4,6 +4,7 @@
 
     <string name="action_settings">Settings</string>
     <string name="hoteles">Hotels</string>
+    <string name="mapa">Map</string>
     <string name="restaurantes">Restaurants</string>
     <string name="bares">Bares</string>
     <string name="turisticos">Tourist Places</string>

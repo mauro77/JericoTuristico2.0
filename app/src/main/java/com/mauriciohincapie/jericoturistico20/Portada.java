@@ -2,6 +2,7 @@ package com.mauriciohincapie.jericoturistico20;
 
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
+import android.content.Intent;
 import android.content.res.Configuration;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
@@ -77,6 +78,12 @@ public class Portada extends ActionBarActivity {
             fragnentTransaction.replace(android.R.id.content, fragment);
             fragnentTransaction.addToBackStack(null);
             fragnentTransaction.commit();
+            return true;
+        }
+
+        if (id == R.id.mapa) {
+            Intent i=new Intent(this,Mapa.class);
+            startActivity(i);
             return true;
         }
 
